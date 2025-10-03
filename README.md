@@ -1,7 +1,7 @@
 # AWS-EC2-Web-Server-Setup
 
 1. Launch an Ubuntu EC2 instance
-<img width="350" height="250" alt="Screenshot 2025-10-03 165234" src="https://github.com/user-attachments/assets/09cde0e1-50fd-4c8f-99a7-c7f538d2e452" />
+<img width="536" height="250" alt="Screenshot 2025-10-03 165234" src="https://github.com/user-attachments/assets/09cde0e1-50fd-4c8f-99a7-c7f538d2e452" />
 
 2. Select instance type and keypair.
 <img width="536" height="278" alt="image" src="https://github.com/user-attachments/assets/74922fb4-38bb-45ac-8d63-f1ba866df638" />
