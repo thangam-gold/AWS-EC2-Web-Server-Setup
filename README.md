@@ -12,16 +12,26 @@
 4. Connect to instance
 <img width="558" height="102" alt="image" src="https://github.com/user-attachments/assets/82a71305-dce7-4deb-b9ec-41aaddf447e0" />
 
-5. Udate the machine
+5. Update the machine
+   
+    sudo apt update
 <img width="553" height="114" alt="image" src="https://github.com/user-attachments/assets/f85281c2-dc42-4e43-a948-5bd039b39d63" />
 
 6. Install apache Server.
+
+   sudo apt-get install apache2 -y
 <img width="559" height="116" alt="image" src="https://github.com/user-attachments/assets/fa625003-d5ee-41ad-800d-8a60e10725b7" />
 
 7. Create index file
+
+    sudo touch index.html
+    
+    sudo nano index.html
 <img width="289" height="158" alt="image" src="https://github.com/user-attachments/assets/0a5a1a03-11d5-4df6-b4ed-0d9b1ffc2ef7" />
 
 8. Move that file to /var/www/html/
+
+    sudo mv * /var/www/html/
 <img width="459" height="36" alt="image" src="https://github.com/user-attachments/assets/d422948b-9ba2-48ae-8178-419068a369d1" />
 
 9. Access site via http://<ec2-public-ip>
