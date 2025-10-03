@@ -34,7 +34,9 @@
     sudo mv * /var/www/html/
 <img width="459" height="36" alt="image" src="https://github.com/user-attachments/assets/d422948b-9ba2-48ae-8178-419068a369d1" />
 
-9. Access site via http://<ec2-public-ip>
+9. Access site
+    
+   http://ec2-public-ip
 <img width="340" height="133" alt="image" src="https://github.com/user-attachments/assets/3dc49ecb-0017-4200-89c8-c1bea50eaab1" />
 
 
